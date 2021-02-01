@@ -54,7 +54,7 @@ export default function ContributorsPage({ contributors }) {
           <Widget.Content>
             <p>
               Estamos muito felizes de contar com a sua participação, confira
-              todos os outros projetos criados durante essa imersão!
+              todos os outros projetos criados durante essa imersão!!
             </p>
           </Widget.Content>
         </Widget>
